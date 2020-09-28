@@ -24,8 +24,23 @@ Installation
 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
 
+
+
+Changelog
+========================================
+<pre>
+= 1.0.1  =
+* .pot file updated
+
+= 1.0.0  =
+
+* Initial release
+</pre>
+
+
 Credits 
 ========================================
+<pre>
 Bootstrap:
 Author: Twitter
 Source: http://getbootstrap.com
@@ -85,18 +100,8 @@ License:  CC0 Public Domain
 
 Name : screenshot.png logo
 License:  Self created by athemeart.com 
-
-
-Changelog
-========================================
-<pre>
-= 1.0.1  =
-* .pot file updated
-
-= 1.0.0  =
-
-* Initial release
 </pre>
+
 
 Copyright
 ========================================
