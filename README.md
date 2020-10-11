@@ -105,5 +105,5 @@ License:  Self created by athemeart.com
 
 Copyright
 ========================================
-Grocery Store WordPress Theme, Copyright (C) 2020 aThemeArt.com
+<a href="https://bddesignzone.com/grocery-store-wordpress-woocommerce-theme/" target="_blank">Grocery Store</a> WordPress Theme, Copyright (C) 2020 aThemeArt.com
 Grocery Store is distributed under the terms of the MIT License 
